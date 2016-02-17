@@ -1,2 +1,5 @@
 # AntSimWebGL
-WebGL version of Ant Sim
+
+WebGL visualization of AntSim
+
+source: https://github.com/DanielWare/AntSim
